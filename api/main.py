@@ -3,8 +3,14 @@ from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import subprocess
 import os
+import sys
+sys.path.append("E:/HYDAI")
 
 app = FastAPI(title="HYDAI API", version="1.0.0")
+# Load LangGraph once at startup
+print("Loading LangGraph + RAG system...")
+from agents.hydai_langgraph import ask_hydai
+print("LangGraph ready.")
 
 # ── CORS (allows React to talk to this API) ────────────
 app.add_middleware(
@@ -130,17 +136,6 @@ class ChatRequest(BaseModel):
     message: str
 
 @app.post("/chat")
-
 def chat(req: ChatRequest):
-    import os
-    from groq import Groq
-    from dotenv import load_dotenv
-    load_dotenv("E:/HYDAI/.env")
-    client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-    response = client.chat.completions.create(
-        model="llama-3.1-8b-instant",
-        messages=[{"role": "user", "content": req.message}],
-        max_tokens=300,
-        temperature=0.3,
-    )
-    return {"reply": response.choices[0].message.content.strip()}
+    reply = ask_hydai(req.message)
+    return {"reply": reply}

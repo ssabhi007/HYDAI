@@ -1,3 +1,6 @@
+import { MapContainer, TileLayer, CircleMarker, Popup } from "react-leaflet"
+import "leaflet/dist/leaflet.css"
+
 import { useState, useEffect } from "react"
 import axios from "axios"
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from "recharts"
@@ -5,6 +8,64 @@ import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pi
 const API = "http://127.0.0.1:8000"
 
 const COLORS = ["#6366f1","#f59e0b","#10b981","#ef4444","#3b82f6","#ec4899"]
+
+const AREA_COORDS = {
+  "kondapur"       : [17.4598, 78.3677],
+  "kukatpally"     : [17.4849, 78.3953],
+  "hitech city"    : [17.4435, 78.3772],
+  "madhapur"       : [17.4486, 78.3908],
+  "jubilee hills"  : [17.4317, 78.4071],
+  "mehdipatnam"    : [17.3953, 78.4380],
+  "lb nagar"       : [17.3470, 78.5529],
+  "uppal"          : [17.4051, 78.5587],
+  "tolichowki"     : [17.4076, 78.4183],
+  "nagole"         : [17.3861, 78.5604],
+  "dilsukhnagar"   : [17.3687, 78.5247],
+  "sainikpuri"     : [17.4849, 78.5524],
+  "attapur"        : [17.3726, 78.4221],
+  "hayathnagar"    : [17.3271, 78.6069],
+  "vanasthalipuram": [17.3372, 78.5476],
+  "amberpet"       : [17.4130, 78.5172],
+  "bachupally"     : [17.5432, 78.4102],
+  "chandanagar"    : [17.4924, 78.3295],
+  "alwal"          : [17.5041, 78.5022],
+  "kompally"       : [17.5408, 78.4862],
+  "medchal"        : [17.6277, 78.4800],
+  "gachibowli"     : [17.4401, 78.3489],
+  "banjara hills"  : [17.4138, 78.4382],
+  "secunderabad"   : [17.4399, 78.4983],
+  "himayatnagar"   : [17.4062, 78.4752],
+  "ameerpet"       : [17.4374, 78.4482],
+  "old city"       : [17.3578, 78.4740],
+  "shamshabad"     : [17.2543, 78.4291],
+  "ecil"           : [17.4695, 78.5667],
+  "malkajgiri"     : [17.4593, 78.5330],
+  "trimulgherry"   : [17.4469, 78.5108],
+  "miyapur"        : [17.4959, 78.3468],
+  "begumpet"       : [17.4418, 78.4636],
+  "kothapet"       : [17.3695, 78.5476],
+  "malakpet"       : [17.3780, 78.5020],
+  "nampally"       : [17.3833, 78.4739],
+  "abids"          : [17.3926, 78.4740],
+  "charminar"      : [17.3616, 78.4747],
+  "tarnaka"        : [17.4380, 78.5509],
+  "moosapet"       : [17.4594, 78.4213],
+  "manikonda"      : [17.4025, 78.3893],
+  "nallagandla"    : [17.4826, 78.3317],
+  "tellapur"       : [17.4936, 78.2994],
+  "patancheru"     : [17.5351, 78.2635],
+  "ghatkesar"      : [17.4442, 78.6948],
+}
+
+const ISSUE_COLORS = {
+  "garbage"     : "#f59e0b",
+  "traffic"     : "#ef4444",
+  "waterlogging": "#3b82f6",
+  "pothole"     : "#f97316",
+  "streetlight" : "#8b5cf6",
+  "water_supply": "#06b6d4",
+  "other"       : "#6b7280",
+}
 
 export default function App() {
   const [areas, setAreas]       = useState([])
@@ -15,6 +76,7 @@ export default function App() {
   const [chat, setChat]         = useState([])
   const [input, setInput]       = useState("")
   const [tab, setTab]           = useState("dashboard")
+  const [complaints, setComplaints] = useState([])
 
   useEffect(() => {
     axios.get(`${API}/stats/areas`).then(r => setAreas(r.data))
@@ -22,6 +84,8 @@ export default function App() {
     axios.get(`${API}/stats/urgent`).then(r => setUrgent(r.data))
     axios.get(`${API}/stats/hotspots`).then(r => setHotspots(r.data))
     axios.get(`${API}/briefing`).then(r => setBriefing(r.data.briefing))
+    axios.get(`${API}/complaints`).then(r => setComplaints(r.data))
+
   }, [])
 
   const sendMessage = async () => {
@@ -50,7 +114,7 @@ export default function App() {
         <div style={{ background: "#6366f1", borderRadius: 8, padding: "6px 12px", fontWeight: 700, fontSize: 18 }}>HYDAI</div>
         <span style={{ color: "#94a3b8", fontSize: 14 }}>Hyderabad Urban Issue Intelligence</span>
         <div style={{ marginLeft: "auto", display: "flex", gap: 8 }}>
-          {["dashboard","briefing","chat"].map(t => (
+          {["dashboard","map","briefing","chat"].map(t => (
             <button key={t} onClick={() => setTab(t)}
               style={{ padding: "6px 16px", borderRadius: 6, border: "none", cursor: "pointer",
                 background: tab === t ? "#6366f1" : "#334155",
@@ -147,6 +211,64 @@ export default function App() {
           </div>
         )}
 
+        {/* MAP TAB */}
+{tab === "map" && (
+  <div style={{ borderRadius: 12, overflow: "hidden", height: "75vh" }}>
+    <MapContainer
+      center={[17.4065, 78.4772]}
+      zoom={12}
+      style={{ height: "100%", width: "100%" }}
+    >
+      <TileLayer
+        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        attribution="© OpenStreetMap"
+      />
+      {complaints.map((c, i) => {
+        const coords = AREA_COORDS[c.location?.toLowerCase()]
+        if (!coords) return null
+        const color = ISSUE_COLORS[c.issue_category] || "#6b7280"
+        const radius = c.severity === "high" ? 10 : c.severity === "medium" ? 7 : 5
+        return (
+          <CircleMarker
+            key={i}
+            center={coords}
+            radius={radius}
+            fillColor={color}
+            color={color}
+            fillOpacity={0.7}
+            weight={1}
+          >
+            <Popup>
+              <div style={{ minWidth: 180 }}>
+                <strong style={{ color: "#1e293b" }}>{c.location}</strong><br/>
+                <span style={{ background: color, color: "#fff", padding: "2px 6px", borderRadius: 4, fontSize: 11 }}>
+                  {c.issue_category}
+                </span><br/><br/>
+                <span style={{ fontSize: 12 }}>{c.summary}</span><br/>
+                <span style={{ fontSize: 11, color: "#666" }}>
+                  Severity: {c.severity} | Days: {c.duration_days}
+                </span>
+              </div>
+            </Popup>
+          </CircleMarker>
+        )
+      })}
+    </MapContainer>
+
+    {/* Legend */}
+    <div style={{ position: "absolute", bottom: 40, right: 40, background: "#1e293b",
+      padding: 16, borderRadius: 10, zIndex: 1000, border: "1px solid #334155" }}>
+      <div style={{ fontWeight: 600, marginBottom: 8, color: "#e2e8f0", fontSize: 13 }}>Issue Types</div>
+      {Object.entries(ISSUE_COLORS).map(([issue, color]) => (
+        <div key={issue} style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 4 }}>
+          <div style={{ width: 12, height: 12, borderRadius: "50%", background: color }}/>
+          <span style={{ color: "#94a3b8", fontSize: 12, textTransform: "capitalize" }}>{issue}</span>
+        </div>
+      ))}
+    </div>
+  </div>
+)}
+
         {/* CHAT TAB */}
         {tab === "chat" && (
           <div style={{ background: "#1e293b", borderRadius: 12, padding: 24, height: "70vh", display: "flex", flexDirection: "column" }}>
@@ -177,6 +299,7 @@ export default function App() {
                 style={{ padding: "10px 24px", borderRadius: 8, border: "none",
                   background: "#6366f1", color: "#fff", fontWeight: 600, cursor: "pointer" }}>
                 Send
+                
               </button>
             </div>
           </div>
@@ -184,4 +307,4 @@ export default function App() {
       </div>
     </div>
   )
-}
+} 
