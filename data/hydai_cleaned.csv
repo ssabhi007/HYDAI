@@ -1,0 +1,123 @@
+id,name,area,issue_type,raw_complaint,severity,days,landmark,source,days_flag,cleaned
+1,Rahul,kondapur,Garbage / waste not cleared,garbage not cleared since 3 days near kondapur signal!!,Moderate — affecting daily life,3,near kondapur signal,I saw it myself,ok,True
+2,rahul,kondapur,Garbage / waste not cleared,garbage not cleared since 3 days near kondapur signal!!,Moderate — affecting daily life,3,near kondapur signal,I saw it myself,ok,True
+3,Anonymous,kondapur,Garbage / waste not cleared,garbage not cleared kondapur 3 days,Severe — urgent attention needed,3,Not specified,WhatsApp group,ok,True
+4,Priya S,kukatpally,Garbage / waste not cleared,gabarge issue in kukatpaly its been 5 days bro still no action,Severe — urgent attention needed,5,Not specified,I saw it myself,ok,True
+5,Suresh K,madhapur,Garbage / waste not cleared,garbaje problem in madhapur!! plz fix asap,Moderate — affecting daily life,0,opp cyber towers,Neighbour / friend told me,ok,True
+10,xyz,asdfgh,Other,jkljlkjlk test 1234,Unknown,0,Not specified,Unknown,ok,True
+11,Suresh K,madhapur,Garbage / waste not cleared,garbaje problem in madhapur!! plz fix asap,Moderate — affecting daily life,0,opp cyber towers,Neighbour / friend told me,ok,True
+13,Ramu,secunderabad,Garbage / waste not cleared,bhai secunderabad mein kachra bahut ho gaya 4 din se nahi utha koi nahi sunta,Moderate — affecting daily life,4,garrison area,WhatsApp group,ok,True
+14,Neha,ameerpet,Traffic congestion,ameerpet metro construction traffic diverted chaos everyday,Severe — urgent attention needed,999,ameerpet metro,I saw it myself,suspicious,True
+15,Naresh B,begumpet,Traffic congestion,school van parking causing traffic block near main road begumpet,Minor inconvenience,0,Not specified,WhatsApp group,ok,True
+16,Imran,abids,Other,encroachment on footpath abids pedestrians forced on road,Moderate — affecting daily life,1,Not specified,News / social media,ok,True
+17,Raj,madhapur,Water supply issue,water supply irregular in madhapur very low pressure,Severe — urgent attention needed,47,near park,Unknown,ok,True
+18,Govind,nampally,Traffic congestion,signal at nampally not working since 55 days accident risk,Minor inconvenience,55,near bus stop,Neighbour / friend told me,ok,True
+19,Naresh B,nampally,Traffic congestion,nampally road narrow but heavy vehicles allowed why,Moderate — affecting daily life,0,behind temple,Unknown,ok,True
+20,Ramu,dilsukhnagar,Traffic congestion,signal at dilsukhnagar not working since 13 days accident risk,Moderate — affecting daily life,0,near park,Unknown,ok,True
+21,Venkat P,ecil,Other,open burning garbage ecil area air pollution,Severe — urgent attention needed,6,Not specified,Neighbour / friend told me,ok,True
+22,user123,ameerpet,Streetlight not working,ameerpet area pitch dark at night lights not working 6 days,Minor inconvenience,50,Not specified,I saw it myself,ok,True
+23,Swathi,moosapet,Waterlogging / flooding,flood flood flood moosapet someone help,Minor inconvenience,10,near petrol bunk,WhatsApp group,ok,True
+24,Naresh,patancheru,Streetlight not working,filed complaint 6 times patancheru streetlight still not fixed,Moderate — affecting daily life,6,opp mall,I saw it myself,ok,True
+26,Suresh K,malkajgiri,Pothole / road damage,malkajgiri road condition pathetic 28 months no repair,Minor inconvenience,0,near metro station,I saw it myself,ok,True
+27,Sameer,ecil,Unknown,hi,Moderate — affecting daily life,0,opp mall,News / social media,ok,True
+28,Mohammed Z,chandanagar,Water supply issue,muddy water coming from tap chandanagar health risk,Minor inconvenience,0,near park,Neighbour / friend told me,ok,True
+29,Lakshmi,kukatpally,Garbage / waste not cleared,waste not collected kukatpaly,Minor inconvenience,31,near bus stop,Neighbour / friend told me,ok,True
+30,Govind,kompally,Unknown,hello,Moderate — affecting daily life,0,near metro station,Neighbour / friend told me,ok,True
+31,suresh k,himayatnagar,Traffic congestion,traffic jam himayatnagar,Moderate — affecting daily life,16,behind temple,I saw it myself,ok,True
+32,Raj,dilsukhnagar,Pothole / road damage,dilsukhnagar main road pothole accident happened yesterday,Severe — urgent attention needed,43,Not specified,Neighbour / friend told me,ok,True
+33,suresh k,secunderabad,Streetlight not working,secunderabad colony roads dark electricity dept not responding,Moderate — affecting daily life,24,opp school,WhatsApp group,ok,True
+34,Raj,old city,Streetlight not working,dark road old city near opp mall women scared to walk at night,Minor inconvenience,0,opp mall,Neighbour / friend told me,ok,True
+35,Rekha,banjara hills,Streetlight not working,dark road banjara hills near near metro station women scared to walk at night,Minor inconvenience,3,near metro station,I saw it myself,ok,True
+36,Anonymous,malakpet,Waterlogging / flooding,water logging malakpet,Minor inconvenience,28,behind hospital,WhatsApp group,ok,True
+38,Ganesh,mehdipatnam,Traffic congestion,mehdipatnam metro construction traffic diverted chaos everyday,Unknown,0,Not specified,I saw it myself,ok,True
+39,Meena R,moosapet,Streetlight not working,no lights moosapet after 9pm please fix,Severe — urgent attention needed,54,opp office,Unknown,ok,True
+40,swathi,kompally,Water supply issue,water comes only 7 hours per day kompally area not enough,Severe — urgent attention needed,0,near signal,News / social media,ok,True
+41,suresh k,kothapet,Pothole / road damage,kothapet ring road huge crater like pothole pls repair,Severe — urgent attention needed,59,near petrol bunk,News / social media,ok,True
+42,Vijay K,sainikpuri,Waterlogging / flooding,sainikpuri nala overflow sewage water on roads very unhygienic,Moderate — affecting daily life,58,behind hospital,News / social media,ok,True
+43,Arjun,hayathnagar,Unknown,test,Unknown,51,Not specified,News / social media,ok,True
+44,Sana,tolichowki,Streetlight not working,tolichoki area pitch dark at night lights not working 10 days,Moderate — affecting daily life,0,near bus stop,Neighbour / friend told me,ok,True
+45,Pooja,jubilee hills,Garbage / waste not cleared,garbage dump overflowing jublie hills main road 17 days no collection,Minor inconvenience,0,Not specified,News / social media,ok,True
+46,Swathi,shamshabad,Water supply issue,contaminated water shamshabad people falling sick,Unknown,59,opp office,Unknown,ok,True
+47,Praveen,himayatnagar,Unknown,abcdefgh,Moderate — affecting daily life,0,opp school,WhatsApp group,ok,True
+48,test,hitech city,Other,dustbin missing hitech city area people throwing garbage on road,Unknown,4,near bus stop,WhatsApp group,ok,True
+49,user123,vanasthalipuram,Streetlight not working,vanastalipuram crossroads no lights after 10pm robbery risk pls fix urgent,Unknown,35,Not specified,News / social media,ok,True
+50,user123,abids,Waterlogging / flooding,abids stormwater drain choked flooding entire colony,Unknown,0,behind temple,Neighbour / friend told me,ok,True
+51,sameer,hayathnagar,Water supply issue,hayathnagar water tanker not coming our area 1 days no water,Unknown,0,opp mall,WhatsApp group,ok,True
+52,Venkat,uppal,Garbage / waste not cleared,please clean uppal garbage its been 8 days,Moderate — affecting daily life,8,near signal,Neighbour / friend told me,ok,True
+53,Anonymous,tellapur,Waterlogging / flooding,after every rain tellapur becomes a lake someone fix drains,Severe — urgent attention needed,0,opp school,I saw it myself,ok,True
+54,user123,ghatkesar,Traffic congestion,school van parking causing traffic block near opp mall ghatkesar,Minor inconvenience,24,opp mall,WhatsApp group,ok,True
+55,anon,nampally,Waterlogging / flooding,nampally stormwater drain choked flooding entire colony,Unknown,18,near signal,Neighbour / friend told me,ok,True
+56,Anonymous,dilsukhnagar,Unknown,test 1234,Moderate — affecting daily life,25,near petrol bunk,News / social media,ok,True
+58,Vijay,malakpet,Pothole / road damage,malakpet road needs complete relaying not just patching,Severe — urgent attention needed,34,near petrol bunk,Unknown,ok,True
+59,ganesh G,ameerpet,Waterlogging / flooding,after every rain ameerpet becomes a lake someone fix drains,Moderate — affecting daily life,0,near signal,Neighbour / friend told me,ok,True
+60,Rohit,kukatpally,Garbage / waste not cleared,bro kukatpally garbage situation is out of control someone do something,Severe — urgent attention needed,0,near metro station,Neighbour / friend told me,ok,True
+61,Anonymous,hitech city,Other,construction debris dumped on hitech city road blocking traffic,Unknown,4,behind hospital,I saw it myself,ok,True
+62,Teja,himayatnagar,Other,stray dogs menace himayatnagar rd 28 please do something,Unknown,28,opp school,News / social media,ok,True
+63,Sameer,lb nagar,Traffic congestion,bro lb nagar peak hour traffic is unbearable do something,Moderate — affecting daily life,39,near park,I saw it myself,ok,True
+64,test,manikonda,Pothole / road damage,pothole manikonda,Unknown,0,behind hospital,I saw it myself,ok,True
+66,priya,ecil,Garbage / waste not cleared,waste not collected ecil,Severe — urgent attention needed,12,near park,Unknown,ok,True
+67,Ravi,alwal,Water supply issue,no water supply in alwal sector 45 since 5 days what is this,Severe — urgent attention needed,45,near park,I saw it myself,ok,True
+68,Suresh,himayatnagar,Garbage / waste not cleared,bro himayatnagar garbage situation is out of control someone do something,Unknown,0,near petrol bunk,News / social media,ok,True
+69,Naresh,nampally,Unknown,jkljlkjlk,Minor inconvenience,20,opp office,I saw it myself,ok,True
+70,ganesh G,secunderabad,Streetlight not working,secunderabad crossroads no lights after 10pm robbery risk pls fix urgent,Severe — urgent attention needed,16,near park,News / social media,ok,True
+71,Kavya,manikonda,Other,mosquito breeding manikoda standing water in empty plots,Severe — urgent attention needed,19,Not specified,Unknown,ok,True
+72,vijay,hayathnagar,Pothole / road damage,pothole pothole everywhere hayathnagar roads disaster,Moderate — affecting daily life,0,Not specified,Unknown,ok,True
+73,Swathi,mehdipatnam,Unknown,.,Minor inconvenience,22,Not specified,Neighbour / friend told me,ok,True
+75,rekha,miyapur,Streetlight not working,streetlight miyapur,Moderate — affecting daily life,49,Not specified,I saw it myself,ok,True
+76,xyz,amberpet,Other,stray dogs menace amberpet rd 44 please do something,Moderate — affecting daily life,44,Not specified,Neighbour / friend told me,ok,True
+77,Divya,tolichowki,Unknown,.,Severe — urgent attention needed,58,Not specified,News / social media,ok,True
+79,Suresh,chandanagar,Streetlight not working,half the lights on chandanagar main road not working dangerous,Minor inconvenience,48,near park,Unknown,ok,True
+80,Ananya,moosapet,Waterlogging / flooding,drainage overflow moosapet near near signal sewage mixing with water,Minor inconvenience,3,near signal,I saw it myself,ok,True
+81,ganesh G,amberpet,Streetlight not working,crime risk increasing amberpet due to no street lighting,Moderate — affecting daily life,19,Not specified,WhatsApp group,ok,True
+83,asha,shamshabad,Water supply issue,no water supply in shamshabad sector 20 since 7 days what is this,Moderate — affecting daily life,20,Not specified,I saw it myself,ok,True
+84,test,jubilee hills,Other,stray dogs menace jublee hills rd 48 please do something,Unknown,48,Not specified,WhatsApp group,ok,True
+85,Nisha,uppal,Unknown,hi,Unknown,0,Not specified,Neighbour / friend told me,ok,True
+86,Naresh B,uppal,Garbage / waste not cleared,uppal garbage problem very bad smell coming pls do something,Minor inconvenience,51,near signal,WhatsApp group,ok,True
+88,Ganesh,jubilee hills,Other,broken footpath jubilee hills near opp office old people falling,Minor inconvenience,24,opp office,I saw it myself,ok,True
+89,ganesh G,attapur,Unknown,abcdefgh,Minor inconvenience,28,Not specified,I saw it myself,ok,True
+90,xyz,miyapur,Water supply issue,water supply irregular in miyapur very low pressure,Unknown,0,opp office,Unknown,ok,True
+91,Asha,medchal,Pothole / road damage,pothole on medchal main road causing accidents daily,Unknown,47,opp mall,WhatsApp group,ok,True
+92,Venkat,hitech city,Other,stray dogs menace hi tech city rd 38 please do something,Minor inconvenience,38,opp office,WhatsApp group,ok,True
+93,arun,kukatpally,Streetlight not working,street light stret lite strelit kukatpaly broken,Severe — urgent attention needed,14,behind hospital,WhatsApp group,ok,True
+94,Kavya,nallagandla,Other,noise pollution nallagandla construction going on at midnight,Minor inconvenience,0,opp school,Unknown,ok,True
+95,Arjun,begumpet,Garbage / waste not cleared,begumpet mein kachra bahut ho gaya 30 din se nahi utha,Minor inconvenience,30,near petrol bunk,Unknown,ok,True
+96,Praveen,miyapur,Garbage / waste not cleared,miyapur garbage problem very bad smell coming pls do something,Minor inconvenience,32,near signal,WhatsApp group,ok,True
+99,Govind,ecil,Other,noise pollution ecil construction going on at midnight,Unknown,0,near metro station,News / social media,ok,True
+100,Neha,chandanagar,Streetlight not working,streetlights chandanagar not repaired since 11 months shameful,Severe — urgent attention needed,5,opp office,Neighbour / friend told me,ok,True
+101,Divya,jubilee hills,Pothole / road damage,pothole pothole everywhere jublie hills roads disaster,Minor inconvenience,0,near signal,Neighbour / friend told me,ok,True
+102,Praveen,begumpet,Water supply issue,no water supply in begumpet sector 21 since 5 days what is this,Severe — urgent attention needed,0,near park,Neighbour / friend told me,ok,True
+103,Swathi,sainikpuri,Traffic congestion,sainikpuri underpass blocked one side traffic chaos,Minor inconvenience,38,opp office,Unknown,ok,True
+104,Lakshmi T,madhapur,Water supply issue,madhapur pipeline burst water wasting on road since 8 days,Minor inconvenience,0,Not specified,Unknown,ok,True
+105,Arun M,miyapur,Water supply issue,water supply irregular in miyapur very low pressure,Minor inconvenience,25,opp school,WhatsApp group,ok,True
+107,Pooja,uppal,Water supply issue,water pressure so low uppal cant fill tank on 2nd floor,Unknown,10,opp mall,Neighbour / friend told me,ok,True
+108,Ravi,miyapur,Waterlogging / flooding,car engine damage due to waterlogging miyapur who will compensate,Unknown,0,Not specified,Neighbour / friend told me,ok,True
+110,Venkat P,ameerpet,Other,stray dogs menace ameerpet rd 4 please do something,Moderate — affecting daily life,4,Not specified,Neighbour / friend told me,ok,True
+112,Priya S,madhapur,Water supply issue,muddy water coming from tap madhapur health risk,Moderate — affecting daily life,0,Not specified,Neighbour / friend told me,ok,True
+113,Naresh,old city,Other,stray dogs menace old city rd 4 please do something,Minor inconvenience,4,near bus stop,WhatsApp group,ok,True
+114,Rahul,abids,Waterlogging / flooding,abids road completely flooded cant even walk 16 days now,Severe — urgent attention needed,16,near signal,News / social media,ok,True
+115,priya,secunderabad,Garbage / waste not cleared,gabarge issue in secunderabad its been 24 days bro,Unknown,24,opp school,News / social media,ok,True
+116,test,hayathnagar,Waterlogging / flooding,waterloging hayath nagar 42 days,Minor inconvenience,42,behind hospital,WhatsApp group,ok,True
+117,priya,sainikpuri,Pothole / road damage,pothole sainikpuri,Minor inconvenience,20,opp office,Neighbour / friend told me,ok,True
+118,rekha,hayathnagar,Streetlight not working,crime risk increasing hayath nagar due to no street lighting,Minor inconvenience,48,near park,WhatsApp group,ok,True
+119,Mohammed,kompally,Traffic congestion,bro kompally peak hour traffic is unbearable do something,Unknown,21,opp mall,Unknown,ok,True
+121,Anonymous,begumpet,Water supply issue,muddy water coming from tap begumpet health risk,Severe — urgent attention needed,0,behind hospital,News / social media,ok,True
+122,rohit,nagole,Traffic congestion,road widening work causing nagole traffic chaos past 59 days,Minor inconvenience,59,opp office,Neighbour / friend told me,ok,True
+123,Praveen,jubilee hills,Traffic congestion,auto and cab drivers blocking jublee hills junction someone regulate,Unknown,52,Not specified,Neighbour / friend told me,ok,True
+124,Pooja,nampally,Waterlogging / flooding,waterloging in nampally main road after rain whole road flooded!!,Severe — urgent attention needed,0,near bus stop,Unknown,ok,True
+125,ganesh G,hitech city,Traffic congestion,hi tech city road narrow but heavy vehicles allowed why,Severe — urgent attention needed,50,behind temple,News / social media,ok,True
+126,Swathi,manikonda,Waterlogging / flooding,manikonda area flooding during rains drain blocked,Moderate — affecting daily life,4,Not specified,News / social media,ok,True
+127,Anonymous,sainikpuri,Traffic congestion,miyapur x roads signal timing wrong lorrys blocking every morn,Severe — urgent attention needed,0,Not specified,Neighbour / friend told me,ok,True
+128,priya,vanasthalipuram,Garbage / waste not cleared,waste management zero vanasthalipuram 50 days same garbage,Minor inconvenience,50,near signal,I saw it myself,ok,True
+132,Suresh,tolichowki,Pothole / road damage,tolichoki school zone pothole dangerous for kids on cycle,Severe — urgent attention needed,0,near signal,I saw it myself,ok,True
+133,Suresh,chandanagar,Water supply issue,water comes only 13 hours per day chandanagar area not enough,Minor inconvenience,13,near petrol bunk,News / social media,ok,True
+134,Vijay,jubilee hills,Waterlogging / flooding,water stagnation jubilee hills near opp office,Minor inconvenience,22,opp office,News / social media,ok,True
+136,Vijay,shamshabad,Streetlight not working,street light stret lite strelit shamshabad broken,Unknown,8,behind temple,I saw it myself,ok,True
+138,Swathi,mehdipatnam,Other,open burning garbage mehdipatnam area air pollution,Moderate — affecting daily life,59,near park,News / social media,ok,True
+140,Ramu,attapur,Streetlight not working,street lite not working attapur colony,Moderate — affecting daily life,36,Not specified,News / social media,ok,True
+141,Sunita,moosapet,Waterlogging / flooding,waterloging moosapet 6 days,Severe — urgent attention needed,6,near petrol bunk,I saw it myself,ok,True
+144,rohit,alwal,Waterlogging / flooding,drainage overflow alwal near main road sewage mixing with water,Minor inconvenience,0,Not specified,News / social media,ok,True
+146,Meena R,kothapet,Pothole / road damage,kothapet ring road huge crater like pothole pls repair,Moderate — affecting daily life,33,near petrol bunk,Unknown,ok,True
+147,Teja,tolichowki,Unknown,jkljlkjlk,Severe — urgent attention needed,37,near metro station,WhatsApp group,ok,True
+148,Vijay,nampally,Streetlight not working,nampally colony roads dark electricity dept not responding,Minor inconvenience,15,behind hospital,WhatsApp group,ok,True
+149,Fatima B,nallagandla,Pothole / road damage,nallagandla ring road huge crater like pothole pls repair,Moderate — affecting daily life,34,Not specified,Unknown,ok,True
+150,Anonymous,hayathnagar,Unknown,test 1234,Minor inconvenience,58,opp office,Neighbour / friend told me,ok,True

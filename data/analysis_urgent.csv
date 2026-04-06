@@ -1,0 +1,14 @@
+location,issue_category,duration_days,summary
+nampally,traffic,55.0,"The signal at Nampally is not working, posing an accident risk."
+dilsukhnagar,traffic,13.0,"Signal at Dilsukhnagar not working, posing an accident risk"
+tolichowki,streetlight,10.0,"Streetlights are not working in Tolichowki area, making it pitch dark at night."
+jubilee hills,garbage,17.0,Garbage dump overflowing on Jubilee Hills Main Road for 17 days
+uppal,garbage,8.0,Garbage has not been cleared in Uppal for 8 days
+begumpet,garbage,30.0,Garbage has not been cleared in Begumpet for 30 days.
+chandanagar,streetlight,11.0,Streetlights in Chandana Nagar are not repaired.
+madhapur,water_supply,8.0,Pipeline burst causing water wastage on road
+abids,waterlogging,16.0,"Abids Road is completely flooded, making it impossible to walk."
+secunderabad,garbage,24.0,Garbage issue in Secunderabad
+hayathnagar,waterlogging,42.0,Waterlogging has been ongoing in Hayath Nagar for 42 days.
+nagole,traffic,59.0,Road widening work is causing traffic chaos in Nagole
+vanasthalipuram,garbage,50.0,Garbage not cleared for 50 days in Vanasthalipuram

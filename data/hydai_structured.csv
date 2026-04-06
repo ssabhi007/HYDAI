@@ -1,0 +1,119 @@
+id,original_area,issue_type_raw,raw_complaint,days_reported,source,location,issue_category,severity,duration_days,landmark,summary
+1,kondapur,Garbage / waste not cleared,garbage not cleared since 3 days near kondapur signal!!,3,I saw it myself,Kondapur,Garbage / waste not cleared,high,3.0,Kondapur signal,Garbage not cleared near Kondapur signal for 3 days.
+3,kondapur,Garbage / waste not cleared,garbage not cleared kondapur 3 days,3,WhatsApp group,Kondapur,garbage,high,3.0,,Garbage not cleared in Kondapur for 3 days
+4,kukatpally,Garbage / waste not cleared,gabarge issue in kukatpaly its been 5 days bro still no action,5,I saw it myself,Kukatpally,garbage,high,5.0,,"Garbage issue in Kukatpally, not cleared for 5 days"
+5,madhapur,Garbage / waste not cleared,garbaje problem in madhapur!! plz fix asap,0,Neighbour / friend told me,Madhapur,garbage,high,,,Garbage problem in Madhapur
+10,asdfgh,Other,jkljlkjlk test 1234,0,Unknown,Unknown,other,Unknown,,,Unknown complaint in asdfgh
+13,secunderabad,Garbage / waste not cleared,bhai secunderabad mein kachra bahut ho gaya 4 din se nahi utha koi nahi sunta,4,WhatsApp group,Secunderabad,garbage,high,4.0,,Garbage has not been cleared in Secunderabad for the past 4 days.
+14,ameerpet,Traffic congestion,ameerpet metro construction traffic diverted chaos everyday,999,I saw it myself,Ameerpet,traffic,high,,,Traffic congestion due to metro construction in Ameerpet
+15,begumpet,Traffic congestion,school van parking causing traffic block near main road begumpet,0,WhatsApp group,Begumpet,traffic,high,,main road,School van parking is causing traffic block near main road Begumpet
+16,abids,Other,encroachment on footpath abids pedestrians forced on road,1,News / social media,Abids,other,high,,,Encroachment on footpath in Abids is forcing pedestrians onto the road.
+17,madhapur,Water supply issue,water supply irregular in madhapur very low pressure,47,Unknown,Madhapur,water_supply,low,,,Irregular water supply with low pressure in Madhapur
+18,nampally,Traffic congestion,signal at nampally not working since 55 days accident risk,55,Neighbour / friend told me,Nampally,traffic,high,55.0,,"The signal at Nampally is not working, posing an accident risk."
+19,nampally,Traffic congestion,nampally road narrow but heavy vehicles allowed why,0,Unknown,Nampally,traffic,high,,,"Heavy vehicles are allowed on narrow Nampally road, causing traffic congestion."
+20,dilsukhnagar,Traffic congestion,signal at dilsukhnagar not working since 13 days accident risk,0,Unknown,Dilsukhnagar,traffic,high,13.0,,"Signal at Dilsukhnagar not working, posing an accident risk"
+21,ecil,Other,open burning garbage ecil area air pollution,6,Neighbour / friend told me,ECIL,garbage,high,,,Open burning of garbage is causing air pollution in ECIL area.
+22,ameerpet,Streetlight not working,ameerpet area pitch dark at night lights not working 6 days,50,I saw it myself,Ameerpet,streetlight,high,6.0,,"Streetlights are not working in Ameerpet area, making it pitch dark at night."
+23,moosapet,Waterlogging / flooding,flood flood flood moosapet someone help,10,WhatsApp group,Moosapet,waterlogging,high,,,Floods are occurring in Moosapet.
+24,patancheru,Streetlight not working,filed complaint 6 times patancheru streetlight still not fixed,6,I saw it myself,Patancheru,streetlight,high,,,Streetlight not fixed in Patancheru
+26,malkajgiri,Pothole / road damage,malkajgiri road condition pathetic 28 months no repair,0,I saw it myself,malkajgiri,unknown,unknown,,,malkajgiri road condition pathetic 28 months no repair
+27,ecil,Unknown,hi,0,News / social media,ECIL,Unknown,Unknown,,,Unknown issue reported in ECIL
+28,chandanagar,Water supply issue,muddy water coming from tap chandanagar health risk,0,Neighbour / friend told me,Chandana Nagar,water_supply,high,,,"Muddy water is coming from the tap in Chandanagar, posing a health risk."
+29,kukatpally,Garbage / waste not cleared,waste not collected kukatpaly,31,Neighbour / friend told me,Kukatpally,garbage,high,,,Waste not collected in Kukatpally
+30,kompally,Unknown,hello,0,Neighbour / friend told me,Kompally,Unknown,Unknown,,,Unknown issue reported in Kompally
+31,himayatnagar,Traffic congestion,traffic jam himayatnagar,16,I saw it myself,Himayatnagar,traffic,high,,,Traffic congestion in Himayatnagar
+32,dilsukhnagar,Pothole / road damage,dilsukhnagar main road pothole accident happened yesterday,43,Neighbour / friend told me,Dilsukhnagar,pothole,high,,main road,Pothole accident happened on the main road in Dilsukhnagar yesterday
+33,secunderabad,Streetlight not working,secunderabad colony roads dark electricity dept not responding,24,WhatsApp group,Secunderabad,streetlight,high,,,"The roads in Secunderabad Colony are dark due to non-functional streetlights, and the electricity department is not responding."
+34,old city,Streetlight not working,dark road old city near opp mall women scared to walk at night,0,Neighbour / friend told me,Old City,streetlight,high,,Opposite Mall,"Dark road near Old City, making it scary for women to walk at night"
+35,banjara hills,Streetlight not working,dark road banjara hills near near metro station women scared to walk at night,3,I saw it myself,Banjara Hills,streetlight,high,,near metro station,Dark road near Banjara Hills metro station is scaring women to walk at night.
+36,malakpet,Waterlogging / flooding,water logging malakpet,28,WhatsApp group,Malakpet,waterlogging,high,,,Water logging reported in Malakpet
+38,mehdipatnam,Traffic congestion,mehdipatnam metro construction traffic diverted chaos everyday,0,I saw it myself,Mehdipatnam,traffic,high,,,Traffic congestion due to metro construction in Mehdipatnam
+39,moosapet,Streetlight not working,no lights moosapet after 9pm please fix,54,Unknown,Moosapet,streetlight,high,,,Streetlights are not working in Moosapet after 9pm
+40,kompally,Water supply issue,water comes only 7 hours per day kompally area not enough,0,News / social media,Kompally,water_supply,high,,,"Water supply is insufficient in Kompally area, coming only 7 hours a day."
+41,kothapet,Pothole / road damage,kothapet ring road huge crater like pothole pls repair,59,News / social media,Kothapet,pothole,high,,,A huge crater-like pothole exists on the Kothapet Ring Road and needs to be repaired.
+42,sainikpuri,Waterlogging / flooding,sainikpuri nala overflow sewage water on roads very unhygienic,58,News / social media,Sainikpuri,waterlogging,high,,,"Sainikpuri nala is overflowing with sewage water, making the roads very unhygienic."
+43,hayathnagar,Unknown,test,51,News / social media,Hayathnagar,other,Unknown,,,test
+44,tolichowki,Streetlight not working,tolichoki area pitch dark at night lights not working 10 days,0,Neighbour / friend told me,Tolichowki,streetlight,high,10.0,,"Streetlights are not working in Tolichowki area, making it pitch dark at night."
+45,jubilee hills,Garbage / waste not cleared,garbage dump overflowing jublie hills main road 17 days no collection,0,News / social media,Jubilee Hills,garbage,high,17.0,Jubilee Hills Main Road,Garbage dump overflowing on Jubilee Hills Main Road for 17 days
+46,shamshabad,Water supply issue,contaminated water shamshabad people falling sick,59,Unknown,Shamshabad,water_supply,high,,,Contaminated water in Shamshabad is causing people to fall sick.
+47,himayatnagar,Unknown,abcdefgh,0,WhatsApp group,Himayatnagar,Unknown,Unknown,,,Unknown issue reported in Himayatnagar
+48,hitech city,Other,dustbin missing hitech city area people throwing garbage on road,4,WhatsApp group,Hitec City,garbage,high,,,"Dustbins are missing in Hitec City area, causing people to throw garbage on the road."
+49,vanasthalipuram,Streetlight not working,vanastalipuram crossroads no lights after 10pm robbery risk pls fix urgent,35,News / social media,Vanasthalipuram,streetlight,high,,Crossroads,"Streetlights are not working at Vanasthalipuram Crossroads after 10pm, posing a robbery risk."
+50,abids,Waterlogging / flooding,abids stormwater drain choked flooding entire colony,0,Neighbour / friend told me,Abids,waterlogging,high,,,"Stormwater drain choked, causing flooding in the entire colony"
+51,hayathnagar,Water supply issue,hayathnagar water tanker not coming our area 1 days no water,0,WhatsApp group,Hayathnagar,water_supply,high,1.0,,No water supply in Hayathnagar for 1 day
+52,uppal,Garbage / waste not cleared,please clean uppal garbage its been 8 days,8,Neighbour / friend told me,Uppal,garbage,high,8.0,,Garbage has not been cleared in Uppal for 8 days
+53,tellapur,Waterlogging / flooding,after every rain tellapur becomes a lake someone fix drains,0,I saw it myself,Tellapur,waterlogging,high,,,Tellapur becomes a lake after every rain due to poor drainage
+54,ghatkesar,Traffic congestion,school van parking causing traffic block near opp mall ghatkesar,24,WhatsApp group,Ghatkesar,traffic,high,,Opp Mall,School van parking is causing traffic congestion near Opp Mall in Ghatkesar.
+55,nampally,Waterlogging / flooding,nampally stormwater drain choked flooding entire colony,18,Neighbour / friend told me,Nampally,waterlogging,high,,,"Nampally stormwater drain is choked, causing flooding in the entire colony."
+56,dilsukhnagar,Unknown,test 1234,25,News / social media,Dilsukhnagar,other,Unknown,,,Unknown issue reported in Dilsukhnagar
+58,malakpet,Pothole / road damage,malakpet road needs complete relaying not just patching,34,Unknown,Malakpet,pothole,high,,,Malakpet road needs complete relaying not just patching
+59,ameerpet,Waterlogging / flooding,after every rain ameerpet becomes a lake someone fix drains,0,Neighbour / friend told me,Ameerpet,waterlogging,high,,,Ameerpet becomes a lake after every rain due to poor drainage
+60,kukatpally,Garbage / waste not cleared,bro kukatpally garbage situation is out of control someone do something,0,Neighbour / friend told me,Kukatpally,garbage,high,,,Garbage situation is out of control in Kukatpally
+61,hitech city,Other,construction debris dumped on hitech city road blocking traffic,4,I saw it myself,Hitec City,other,high,,Hitec City Road,"Construction debris dumped on Hitec City Road, blocking traffic"
+62,himayatnagar,Other,stray dogs menace himayatnagar rd 28 please do something,28,News / social media,Himayatnagar,other,high,,Himayatnagar Rd,Stray dogs are causing a menace on Himayatnagar Rd
+63,lb nagar,Traffic congestion,bro lb nagar peak hour traffic is unbearable do something,39,I saw it myself,LB Nagar,Traffic congestion,high,,,LB Nagar experiences unbearable peak hour traffic
+64,manikonda,Pothole / road damage,pothole manikonda,0,I saw it myself,Manikonda,pothole,high,,,Pothole reported in Manikonda
+66,ecil,Garbage / waste not cleared,waste not collected ecil,12,Unknown,ECIL,garbage,high,,,Garbage not collected in ECIL
+67,alwal,Water supply issue,no water supply in alwal sector 45 since 5 days what is this,45,I saw it myself,Alwal,water_supply,high,5.0,,No water supply in Alwal Sector 45 for the past 5 days.
+68,himayatnagar,Garbage / waste not cleared,bro himayatnagar garbage situation is out of control someone do something,0,News / social media,Himayatnagar,garbage,high,,,Garbage situation is out of control in Himayatnagar
+69,nampally,Unknown,jkljlkjlk,20,I saw it myself,Nampally,Unknown,Unknown,,,Unknown issue reported in Nampally
+70,secunderabad,Streetlight not working,secunderabad crossroads no lights after 10pm robbery risk pls fix urgent,16,News / social media,Secunderabad,streetlight,high,,Secunderabad Crossroads,"Streetlights are not working at Secunderabad Crossroads after 10pm, posing a robbery risk."
+71,manikonda,Other,mosquito breeding manikoda standing water in empty plots,19,Unknown,Manikonda,other,low,,,Mosquito breeding due to standing water in empty plots at Manikonda.
+72,hayathnagar,Pothole / road damage,pothole pothole everywhere hayathnagar roads disaster,0,Unknown,Hayathnagar,pothole,high,,,"There are potholes everywhere on the roads in Hayathnagar, making it a disaster."
+73,mehdipatnam,Unknown,.,22,Neighbour / friend told me,Mehdipatnam,Unknown,Unknown,,,Unknown issue reported in Mehdipatnam
+75,miyapur,Streetlight not working,streetlight miyapur,49,I saw it myself,Miyapur,streetlight,low,,,Streetlight is not working in Miyapur.
+76,amberpet,Other,stray dogs menace amberpet rd 44 please do something,44,Neighbour / friend told me,Amberpet,other,high,,Amberpet Rd,Stray dogs are causing a menace on Amberpet Rd.
+77,tolichowki,Unknown,.,58,News / social media,Tolichowki,Unknown,Unknown,,,Unknown issue reported in Tolichowki
+79,chandanagar,Streetlight not working,half the lights on chandanagar main road not working dangerous,48,Unknown,Chandana Nagar,streetlight,high,,Chandanaagar Main Road,"Half the lights on Chandanaagar Main Road are not working, making it dangerous."
+80,moosapet,Waterlogging / flooding,drainage overflow moosapet near near signal sewage mixing with water,3,I saw it myself,Moosapet,waterlogging,high,,signal near Moosapet,"Drainage overflow near Moosapet signal, causing sewage to mix with water"
+81,amberpet,Streetlight not working,crime risk increasing amberpet due to no street lighting,19,WhatsApp group,Amberpet,streetlight,high,,,Crime risk is increasing in Amberpet due to no street lighting.
+83,shamshabad,Water supply issue,no water supply in shamshabad sector 20 since 7 days what is this,20,I saw it myself,Shamshabad,water_supply,high,7.0,,No water supply in Shamshabad Sector 20 for the past 7 days.
+84,jubilee hills,Other,stray dogs menace jublee hills rd 48 please do something,48,WhatsApp group,Jubilee Hills,other,high,,Jublee Hills Rd 48,Stray dogs are causing a menace on Jublee Hills Rd 48
+85,uppal,Unknown,hi,0,Neighbour / friend told me,Uppal,Unknown,Unknown,,,Unknown issue reported in Uppal
+86,uppal,Garbage / waste not cleared,uppal garbage problem very bad smell coming pls do something,51,WhatsApp group,Uppal,garbage,high,,,Bad smell due to garbage not cleared in Uppal
+88,jubilee hills,Other,broken footpath jubilee hills near opp office old people falling,24,I saw it myself,Jubilee Hills,other,high,,Opp office,Broken footpath in Jubilee Hills near Opp office is causing old people to fall.
+89,attapur,Unknown,abcdefgh,28,I saw it myself,Attapur,Unknown,Unknown,,,Unknown issue reported in Attapur
+90,miyapur,Water supply issue,water supply irregular in miyapur very low pressure,0,Unknown,Miyapur,water_supply,low,,,Water supply is irregular in Miyapur due to very low pressure.
+91,medchal,Pothole / road damage,pothole on medchal main road causing accidents daily,47,WhatsApp group,Medchal,pothole,high,,Medchal Main Road,Pothole on Medchal Main Road is causing accidents daily.
+92,hitech city,Other,stray dogs menace hi tech city rd 38 please do something,38,WhatsApp group,Hitec City,other,high,,Hi Tech City Rd 38,Stray dogs are causing a menace on Hi Tech City Rd 38.
+93,kukatpally,Streetlight not working,street light stret lite strelit kukatpaly broken,14,WhatsApp group,Kukatpally,streetlight,high,,,The streetlight at Kukatpally is not working.
+94,nallagandla,Other,noise pollution nallagandla construction going on at midnight,0,Unknown,Nallagandla,other,high,,,Noise pollution due to construction at midnight in Nallagandla
+95,begumpet,Garbage / waste not cleared,begumpet mein kachra bahut ho gaya 30 din se nahi utha,30,Unknown,Begumpet,garbage,high,30.0,,Garbage has not been cleared in Begumpet for 30 days.
+96,miyapur,Garbage / waste not cleared,miyapur garbage problem very bad smell coming pls do something,32,WhatsApp group,Miyapur,garbage,high,,,Bad smell due to garbage problem in Miyapur
+99,ecil,Other,noise pollution ecil construction going on at midnight,0,News / social media,ECIL,other,high,,,Noise pollution due to construction at midnight in ECIL
+100,chandanagar,Streetlight not working,streetlights chandanagar not repaired since 11 months shameful,5,Neighbour / friend told me,Chandana Nagar,streetlight,high,11.0,,Streetlights in Chandana Nagar are not repaired.
+101,jubilee hills,Pothole / road damage,pothole pothole everywhere jublie hills roads disaster,0,Neighbour / friend told me,Jubilee Hills,pothole,high,,,"Potholes are present everywhere on the roads in Jubilee Hills, making it a disaster."
+102,begumpet,Water supply issue,no water supply in begumpet sector 21 since 5 days what is this,0,Neighbour / friend told me,Begumpet,water_supply,high,5.0,,No water supply in Begumpet sector 21 for the past 5 days.
+103,sainikpuri,Traffic congestion,sainikpuri underpass blocked one side traffic chaos,38,Unknown,Sainikpuri,traffic,high,,,Traffic congestion due to blocked underpass on one side
+104,madhapur,Water supply issue,madhapur pipeline burst water wasting on road since 8 days,0,Unknown,Madhapur,water_supply,high,8.0,,Pipeline burst causing water wastage on road
+107,uppal,Water supply issue,water pressure so low uppal cant fill tank on 2nd floor,10,Neighbour / friend told me,Uppal,water_supply,low,,,"Low water pressure in Uppal, unable to fill tank on 2nd floor"
+108,miyapur,Waterlogging / flooding,car engine damage due to waterlogging miyapur who will compensate,0,Neighbour / friend told me,Miyapur,waterlogging,high,,,Car engine damaged due to waterlogging in Miyapur.
+110,ameerpet,Other,stray dogs menace ameerpet rd 4 please do something,4,Neighbour / friend told me,Ameerpet,other,high,,Ameerpet Rd 4,Stray dogs are causing a menace on Ameerpet Rd 4
+112,madhapur,Water supply issue,muddy water coming from tap madhapur health risk,0,Neighbour / friend told me,Madhapur,water_supply,high,,,"Muddy water is coming from the tap in Madhapur, posing a health risk."
+113,old city,Other,stray dogs menace old city rd 4 please do something,4,WhatsApp group,Old City,other,high,,Old City Rd 4,Stray dogs are causing a menace on Old City Rd 4
+114,abids,Waterlogging / flooding,abids road completely flooded cant even walk 16 days now,16,News / social media,Abids,waterlogging,high,16.0,,"Abids Road is completely flooded, making it impossible to walk."
+115,secunderabad,Garbage / waste not cleared,gabarge issue in secunderabad its been 24 days bro,24,News / social media,Secunderabad,garbage,high,24.0,,Garbage issue in Secunderabad
+116,hayathnagar,Waterlogging / flooding,waterloging hayath nagar 42 days,42,WhatsApp group,Hayath Nagar,waterlogging,high,42.0,,Waterlogging has been ongoing in Hayath Nagar for 42 days.
+117,sainikpuri,Pothole / road damage,pothole sainikpuri,20,Neighbour / friend told me,Sainikpuri,pothole,low,,,Pothole reported in Sainikpuri
+118,hayathnagar,Streetlight not working,crime risk increasing hayath nagar due to no street lighting,48,WhatsApp group,Hayathnagar,streetlight,high,,,Crime risk is increasing in Hayath Nagar due to no street lighting.
+119,kompally,Traffic congestion,bro kompally peak hour traffic is unbearable do something,21,Unknown,Kompally,traffic,high,,,Peak hour traffic in Kompally is unbearable
+121,begumpet,Water supply issue,muddy water coming from tap begumpet health risk,0,News / social media,Begumpet,water_supply,high,,,"Muddy water is coming from the tap in Begumpet, posing a health risk."
+122,nagole,Traffic congestion,road widening work causing nagole traffic chaos past 59 days,59,Neighbour / friend told me,Nagole,traffic,high,59.0,,Road widening work is causing traffic chaos in Nagole
+123,jubilee hills,Traffic congestion,auto and cab drivers blocking jublee hills junction someone regulate,52,Neighbour / friend told me,Jubilee Hills,traffic,high,,Jublee Hills Junction,"Auto and cab drivers are blocking the Jublee Hills Junction, causing traffic congestion."
+124,nampally,Waterlogging / flooding,waterloging in nampally main road after rain whole road flooded!!,0,Unknown,Nampally,waterlogging,high,,Nampally Main Road,The road in Nampally is flooded after rain.
+125,hitech city,Traffic congestion,hi tech city road narrow but heavy vehicles allowed why,50,News / social media,Hitec City,traffic,high,,,"Heavy vehicles are allowed on narrow roads in Hitec City, causing traffic congestion."
+126,manikonda,Waterlogging / flooding,manikonda area flooding during rains drain blocked,4,News / social media,Manikonda,waterlogging,high,,,Flooding occurs in Manikonda area during rains due to a blocked drain.
+127,sainikpuri,Traffic congestion,miyapur x roads signal timing wrong lorrys blocking every morn,0,Neighbour / friend told me,Sainikpuri,traffic,high,,,Incorrect signal timing on Miyapur X roads causing morning traffic congestion due to lorries blocking the road
+128,vanasthalipuram,Garbage / waste not cleared,waste management zero vanasthalipuram 50 days same garbage,50,I saw it myself,Vanasthalipuram,garbage,high,50.0,,Garbage not cleared for 50 days in Vanasthalipuram
+132,tolichowki,Pothole / road damage,tolichoki school zone pothole dangerous for kids on cycle,0,I saw it myself,Tolichowki,pothole,high,,school zone,The pothole on Tolichowki school zone road is dangerous for kids on cycles.
+133,chandanagar,Water supply issue,water comes only 13 hours per day chandanagar area not enough,13,News / social media,Chandana Nagar,water_supply,high,,,Insufficient water supply in Chandana Nagar area
+134,jubilee hills,Waterlogging / flooding,water stagnation jubilee hills near opp office,22,News / social media,Jubilee Hills,waterlogging,medium,,Opp office,Water stagnation is observed in Jubilee Hills near Opp office
+136,shamshabad,Streetlight not working,street light stret lite strelit shamshabad broken,8,I saw it myself,Shamshabad,streetlight,high,,,The streetlight at Shamshabad is not working.
+138,mehdipatnam,Other,open burning garbage mehdipatnam area air pollution,59,News / social media,Mehdipatnam,garbage,high,,,Open burning of garbage is causing air pollution in the Mehdipatnam area.
+140,attapur,Streetlight not working,street lite not working attapur colony,36,News / social media,Attapur,streetlight,low,,Attapur Colony,Streetlight is not working in Attapur Colony.
+141,moosapet,Waterlogging / flooding,waterloging moosapet 6 days,6,I saw it myself,Moosapet,waterlogging,high,6.0,,Waterlogging has been observed in Moosapet for 6 days.
+144,alwal,Waterlogging / flooding,drainage overflow alwal near main road sewage mixing with water,0,News / social media,Alwal,waterlogging,high,,Main Road,"Drainage overflow near Main Road in Alwal, causing sewage to mix with water."
+147,tolichowki,Unknown,jkljlkjlk,37,WhatsApp group,Tolichowki,Unknown,Unknown,,,Unknown issue reported in Tolichowki
+148,nampally,Streetlight not working,nampally colony roads dark electricity dept not responding,15,WhatsApp group,Nampally,streetlight,high,,,"The roads in Nampally Colony are dark due to non-functional streetlights, and the electricity department is not responding."
+149,nallagandla,Pothole / road damage,nallagandla ring road huge crater like pothole pls repair,34,Unknown,Nallagandla,pothole,high,,,A huge crater-like pothole exists on the Nallagandla Ring Road and needs to be repaired.
+150,hayathnagar,Unknown,test 1234,58,Neighbour / friend told me,Hayathnagar,other,Unknown,,,Unknown issue reported in Hayathnagar
